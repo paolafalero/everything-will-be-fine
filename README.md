@@ -1,5 +1,5 @@
-## Bird Sounds
-Thousands of bird sounds, visualized using machine learning.
+## everything will be fine
+Thousands of people around the world, give you a voice of encouragement.
 
 ## About
 
@@ -8,10 +8,6 @@ Bird sounds vary widely. This experiment uses machine learning to organize thous
 [https://aiexperiments.withgoogle.com/bird-sounds](https://aiexperiments.withgoogle.com/bird-sounds)
 
 This is not an official Google product.
-
-## Credits
-
-Built by [Kyle McDonald](https://github.com/kylemcdonald), [Manny Tan](https://github.com/mannytan), [Yotam Mann](https://github.com/tambien), and friends at [Google Creative Lab](https://github.com/googlecreativelab/). Thanks to [Cornell Lab of Ornithology](http://www.birds.cornell.edu/Page.aspx?pid=1478) for their support. [The Essential Set for North America](http://macaulaylibrary.org/guide/audio/essential-set-for-north-america) sounds are provided by the Macaulay Library. Check out more at [A.I. Experiments] (https://aiexperiments.withgoogle.com).
 
 
 ## Front-end Installation
